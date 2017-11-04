@@ -1,5 +1,15 @@
 # CPP11_14_Features
-Programs for new features introduced in C++ 11 and C++ 14.
+Programs for new features introduced in C++ 11 and C++ 14:
+auto
+nullptr
+Range-based for loops
+Override and final
+Strongly-typed enums
+Smart pointers 
+Lambdas
+non-member begin() and end()
+static_assert and type traits
+Move semantics
 
 Reference -
 
