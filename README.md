@@ -10,4 +10,5 @@ http://www.bogotobogo.com/cplusplus/cplusplus11.php
 Instructions:
 
 g++ -std=c++11 -o output file.cpp
+
 ./output
